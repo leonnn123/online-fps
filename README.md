@@ -1,2 +1,4 @@
-# online-fps
-A Godot multiplayer online FPS game
+# Online FPS
+A 3D multiplayer first-person shooter built with Godot.
+
+> **AI disclosure:** This project was created with AI assistance.
